@@ -49,8 +49,8 @@ Upon successful completion of this course, students will be able to:
 
 | Week | Topic | Notebook |
 |------|-------|----------|
-| 1 | **Python Fundamentals** — Syntax, variables, data types, control structures | `Week01_Python_Fundamentals/` |
-| 2 | **Python Modules & Data Science Lifecycle** — Functions, modules, intro to data science | `Week02_Python_Modules_and_Data_Science/` |
+| 1 | **Python Fundamentals & Data Science Lifecycle** — Syntax, variables, data types, control structures (self-study); data science lifecycle (in-class) | `Week01_Python_Fundamentals/` |
+| 2 | **Python Modules & Data Science** — Functions, modules, intro to data science libraries | `Week02_Python_Modules_and_Data_Science/` |
 | 3 | **NumPy & Pandas** — Array operations, DataFrames, data manipulation | `Week03_NumPy_Pandas/` |
 | 4 | **Data Visualization** — Matplotlib, plotting, visualization thinking | `Week04_Matplotlib_Visualization/` |
 | 5 | **Statistical Analysis** — Descriptive statistics, hypothesis testing, regression | `Week05_Statistical_Analysis/` |
