@@ -12,8 +12,7 @@ email_service/
 Final Project/
 
 # Lecture PDFs and LaTeX source
-*.tex
-*.pdf
+archive/
 
 # Non-notebook files in week directories
 Week*/load_displacement_curve.png
